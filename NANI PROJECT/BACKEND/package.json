@@ -1,0 +1,19 @@
+{
+  "name": "vsb-backend",
+  "version": "1.0.0",
+  "description": "virtual study buddy - backend + static frontend",
+  "main": "index.js",
+  
+  "scripts":{
+    "start": "node index.js"
+  },
+  "dependencies":{
+     "cors": "^2.8.5",
+     "express": "^4.18.2",
+    "lowdb": "^3.0.0",
+    "nanoid": "^4.0.0",
+"body-parser": "^1.20.2"
+
+
+  }
+}
